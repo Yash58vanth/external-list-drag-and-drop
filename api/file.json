@@ -12,7 +12,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/index.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/index.d.ts",
 			"sources": [
 				{
 					"fileName": "src/index.d.ts",
@@ -29,7 +29,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/common/constants.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/common/constants.d.ts",
 			"children": [
 				{
 					"id": 163,
@@ -91,7 +91,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/common/locale.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/common/locale.d.ts",
 			"children": [
 				{
 					"id": 165,
@@ -377,7 +377,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/all-day-row-cell.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/all-day-row-cell.d.ts",
 			"children": [
 				{
 					"id": 178,
@@ -432,7 +432,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/all-day-row.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/all-day-row.d.ts",
 			"children": [
 				{
 					"id": 180,
@@ -504,7 +504,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/clone-event.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/clone-event.d.ts",
 			"children": [
 				{
 					"id": 182,
@@ -553,7 +553,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/current-time-indicator.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/current-time-indicator.d.ts",
 			"children": [
 				{
 					"id": 184,
@@ -609,7 +609,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/date-header.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/date-header.d.ts",
 			"children": [
 				{
 					"id": 186,
@@ -658,7 +658,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/day-event-clone.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/day-event-clone.d.ts",
 			"children": [
 				{
 					"id": 188,
@@ -714,7 +714,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/day-event.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/day-event.d.ts",
 			"children": [
 				{
 					"id": 190,
@@ -770,7 +770,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/drag-and-drop.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/drag-and-drop.d.ts",
 			"children": [
 				{
 					"id": 192,
@@ -825,7 +825,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/external-drag-and-drop.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/external-drag-and-drop.d.ts",
 			"children": [
 				{
 					"id": 194,
@@ -874,7 +874,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/month-cells.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/month-cells.d.ts",
 			"children": [
 				{
 					"id": 196,
@@ -930,7 +930,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/month-row.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/month-row.d.ts",
 			"children": [
 				{
 					"id": 198,
@@ -979,7 +979,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/more-indicator.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/more-indicator.d.ts",
 			"children": [
 				{
 					"id": 200,
@@ -1219,7 +1219,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/popup/confirmation-dialog.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/popup/confirmation-dialog.d.ts",
 			"children": [
 				{
 					"id": 2278,
@@ -1288,7 +1288,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/popup/editor-popup-fields.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/popup/editor-popup-fields.d.ts",
 			"children": [
 				{
 					"id": 2280,
@@ -1343,7 +1343,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/popup/editor-popup.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/popup/editor-popup.d.ts",
 			"children": [
 				{
 					"id": 2282,
@@ -1399,7 +1399,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/popup/more-popup.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/popup/more-popup.d.ts",
 			"children": [
 				{
 					"id": 2284,
@@ -1600,7 +1600,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/popup/quick-info-popup.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/popup/quick-info-popup.d.ts",
 			"children": [
 				{
 					"id": 2308,
@@ -3391,7 +3391,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/resizeHandlers.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/resizeHandlers.d.ts",
 			"children": [
 				{
 					"id": 211,
@@ -3446,7 +3446,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/scheduler-header.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/scheduler-header.d.ts",
 			"children": [
 				{
 					"id": 213,
@@ -3521,7 +3521,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/scheduler-toolbar.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/scheduler-toolbar.d.ts",
 			"children": [
 				{
 					"id": 218,
@@ -3809,7 +3809,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/scheduler-tooltip.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/scheduler-tooltip.d.ts",
 			"children": [
 				{
 					"id": 222,
@@ -3879,7 +3879,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/time-cells.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/time-cells.d.ts",
 			"children": [
 				{
 					"id": 224,
@@ -3935,7 +3935,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/time-slot-event-clone.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/time-slot-event-clone.d.ts",
 			"children": [
 				{
 					"id": 226,
@@ -3991,7 +3991,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/time-slot-event.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/time-slot-event.d.ts",
 			"children": [
 				{
 					"id": 228,
@@ -4040,7 +4040,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/week-day-header.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/week-day-header.d.ts",
 			"children": [
 				{
 					"id": 230,
@@ -4089,7 +4089,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/components/work-cells.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/components/work-cells.d.ts",
 			"children": [
 				{
 					"id": 232,
@@ -4138,7 +4138,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/context/clone-event-context.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/context/clone-event-context.d.ts",
 			"children": [
 				{
 					"id": 234,
@@ -4561,7 +4561,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/context/scheduler-context.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/context/scheduler-context.d.ts",
 			"children": [
 				{
 					"id": 253,
@@ -4688,7 +4688,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/context/scheduler-editor-popup-context.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/context/scheduler-editor-popup-context.d.ts",
 			"children": [
 				{
 					"id": 261,
@@ -4830,7 +4830,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/context/scheduler-events-context.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/context/scheduler-events-context.d.ts",
 			"children": [
 				{
 					"id": 263,
@@ -5057,7 +5057,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/context/scheduler-render-dates-context.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/context/scheduler-render-dates-context.d.ts",
 			"children": [
 				{
 					"id": 272,
@@ -5282,7 +5282,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useAllDayEvents.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useAllDayEvents.d.ts",
 			"children": [
 				{
 					"id": 281,
@@ -5410,7 +5410,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useCellInteraction.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useCellInteraction.d.ts",
 			"children": [
 				{
 					"id": 287,
@@ -5832,7 +5832,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useConfirmationDialog.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useConfirmationDialog.d.ts",
 			"children": [
 				{
 					"id": 309,
@@ -6370,7 +6370,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useData.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useData.d.ts",
 			"children": [
 				{
 					"id": 337,
@@ -6479,7 +6479,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useDateHeader.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useDateHeader.d.ts",
 			"children": [
 				{
 					"id": 342,
@@ -6791,7 +6791,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useDragAndDrop.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useDragAndDrop.d.ts",
 			"children": [
 				{
 					"id": 355,
@@ -7029,7 +7029,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useEditorActions.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useEditorActions.d.ts",
 			"children": [
 				{
 					"id": 366,
@@ -7475,7 +7475,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useEditorPopup.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useEditorPopup.d.ts",
 			"children": [
 				{
 					"id": 390,
@@ -9340,7 +9340,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useEventPositioning.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useEventPositioning.d.ts",
 			"children": [
 				{
 					"id": 487,
@@ -9449,7 +9449,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useKeyboard.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useKeyboard.d.ts",
 			"children": [
 				{
 					"id": 492,
@@ -9632,7 +9632,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useMonthCells.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useMonthCells.d.ts",
 			"children": [
 				{
 					"id": 501,
@@ -10021,7 +10021,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useMonthEvents.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useMonthEvents.d.ts",
 			"children": [
 				{
 					"id": 518,
@@ -10779,7 +10779,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useMonthRows.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useMonthRows.d.ts",
 			"children": [
 				{
 					"id": 558,
@@ -11012,7 +11012,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useMoreIndicator.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useMoreIndicator.d.ts",
 			"children": [
 				{
 					"id": 567,
@@ -11254,7 +11254,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useMorePopup.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useMorePopup.d.ts",
 			"children": [
 				{
 					"id": 580,
@@ -11343,7 +11343,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useQuickInfoPopup.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useQuickInfoPopup.d.ts",
 			"children": [
 				{
 					"id": 615,
@@ -13331,7 +13331,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useResize.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useResize.d.ts",
 			"children": [
 				{
 					"id": 681,
@@ -13415,7 +13415,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useScheduler.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useScheduler.d.ts",
 			"children": [
 				{
 					"id": 689,
@@ -13678,7 +13678,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useTimeCells.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useTimeCells.d.ts",
 			"children": [
 				{
 					"id": 698,
@@ -13772,7 +13772,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useTimeIndicator.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useTimeIndicator.d.ts",
 			"children": [
 				{
 					"id": 703,
@@ -14232,7 +14232,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useTimeSlotEvent.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useTimeSlotEvent.d.ts",
 			"children": [
 				{
 					"id": 727,
@@ -14459,7 +14459,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useVerticalView.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useVerticalView.d.ts",
 			"children": [
 				{
 					"id": 736,
@@ -14568,7 +14568,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useWeekDayHeader.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useWeekDayHeader.d.ts",
 			"children": [
 				{
 					"id": 741,
@@ -14766,7 +14766,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/hooks/useWorkCells.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/hooks/useWorkCells.d.ts",
 			"children": [
 				{
 					"id": 749,
@@ -15174,7 +15174,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/index.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/index.d.ts",
 			"sources": [
 				{
 					"fileName": "src/scheduler/index.d.ts",
@@ -15191,7 +15191,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/scheduler.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/scheduler.d.ts",
 			"children": [
 				{
 					"id": 4,
@@ -19009,7 +19009,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/services/DateService.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/services/DateService.d.ts",
 			"children": [
 				{
 					"id": 766,
@@ -23237,7 +23237,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/services/EventService.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/services/EventService.d.ts",
 			"children": [
 				{
 					"id": 1007,
@@ -25606,7 +25606,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/services/NavigationService.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/services/NavigationService.d.ts",
 			"children": [
 				{
 					"id": 1139,
@@ -26157,7 +26157,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/services/PositioningService.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/services/PositioningService.d.ts",
 			"children": [
 				{
 					"id": 1159,
@@ -27024,7 +27024,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/services/ViewService.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/services/ViewService.d.ts",
 			"children": [
 				{
 					"id": 1202,
@@ -27567,7 +27567,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/types/enums.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/types/enums.d.ts",
 			"children": [
 				{
 					"id": 1229,
@@ -27895,7 +27895,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/types/internal-interface.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/types/internal-interface.d.ts",
 			"children": [
 				{
 					"id": 1240,
@@ -34642,7 +34642,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/types/scheduler-types.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/types/scheduler-types.d.ts",
 			"children": [
 				{
 					"id": 2046,
@@ -50798,7 +50798,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/utils/actions.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/utils/actions.d.ts",
 			"children": [
 				{
 					"id": 2153,
@@ -51375,7 +51375,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/utils/clone-manager.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/utils/clone-manager.d.ts",
 			"children": [
 				{
 					"id": 2183,
@@ -52816,7 +52816,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/utils/default-props.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/utils/default-props.d.ts",
 			"children": [
 				{
 					"id": 2256,
@@ -52872,7 +52872,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/utils/merge-utils.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/utils/merge-utils.d.ts",
 			"children": [
 				{
 					"id": 2258,
@@ -53103,7 +53103,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/views/day-view.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/views/day-view.d.ts",
 			"children": [
 				{
 					"id": 2268,
@@ -53159,7 +53159,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/views/month-view.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/views/month-view.d.ts",
 			"children": [
 				{
 					"id": 2270,
@@ -53215,7 +53215,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/views/vertical-view.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/views/vertical-view.d.ts",
 			"children": [
 				{
 					"id": 2272,
@@ -53271,7 +53271,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/views/week-view.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/views/week-view.d.ts",
 			"children": [
 				{
 					"id": 2274,
@@ -53327,7 +53327,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "D:/Scheduler/Working-bug/latest/react-schedule-component/src/scheduler/views/work-week-view.d.ts",
+			"originalName": "D:/Scheduler/react-schedule-component/src/scheduler/views/work-week-view.d.ts",
 			"children": [
 				{
 					"id": 2276,
